@@ -1,5 +1,5 @@
 x = int(input(''))
-if :
-    print('')
+if x % 2 == 0:
+    print('Even numbers')
 else :
-    print('')
+    print('Odd numbers')
