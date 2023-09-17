@@ -1,5 +1,5 @@
 x = int(input(''))
-if :
-    print('')
+if x % 7 == 0:
+    print('Number is a multiple of 7')
 else :
-    print('')
+    print('Number is not a multiple of 7')
